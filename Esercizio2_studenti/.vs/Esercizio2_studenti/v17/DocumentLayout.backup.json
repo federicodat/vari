@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\Esercizio2_studenti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69FC8D50-D92D-4C6D-AE7A-4176F27AF132}|Esercizio2_studenti\\Esercizio2_studenti.csproj|c:\\source\\esercizio2_studenti\\esercizio2_studenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FC8D50-D92D-4C6D-AE7A-4176F27AF132}|Esercizio2_studenti\\Esercizio2_studenti.csproj|solutionrelative:esercizio2_studenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FC8D50-D92D-4C6D-AE7A-4176F27AF132}|Esercizio2_studenti\\Esercizio2_studenti.csproj|c:\\source\\esercizio2_studenti\\esercizio2_studenti\\classes\\studenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FC8D50-D92D-4C6D-AE7A-4176F27AF132}|Esercizio2_studenti\\Esercizio2_studenti.csproj|solutionrelative:esercizio2_studenti\\classes\\studenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studenti.cs",
+              "DocumentMoniker": "C:\\source\\Esercizio2_studenti\\Esercizio2_studenti\\classes\\Studenti.cs",
+              "RelativeDocumentMoniker": "Esercizio2_studenti\\classes\\Studenti.cs",
+              "ToolTip": "C:\\source\\Esercizio2_studenti\\Esercizio2_studenti\\classes\\Studenti.cs",
+              "RelativeToolTip": "Esercizio2_studenti\\classes\\Studenti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:55:24.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\Esercizio2_studenti\\Esercizio2_studenti\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio2_studenti\\Program.cs",
+              "ToolTip": "C:\\source\\Esercizio2_studenti\\Esercizio2_studenti\\Program.cs*",
+              "RelativeToolTip": "Esercizio2_studenti\\Program.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwD0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:53:35.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

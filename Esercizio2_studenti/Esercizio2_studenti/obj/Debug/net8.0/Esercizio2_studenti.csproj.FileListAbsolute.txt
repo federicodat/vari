@@ -1,0 +1,15 @@
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.AssemblyInfoInputs.cache
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.AssemblyInfo.cs
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.csproj.CoreCompileInputs.cache
+C:\source\Esercizio2_studenti\Esercizio2_studenti\bin\Debug\net8.0\Esercizio2_studenti.exe
+C:\source\Esercizio2_studenti\Esercizio2_studenti\bin\Debug\net8.0\Esercizio2_studenti.deps.json
+C:\source\Esercizio2_studenti\Esercizio2_studenti\bin\Debug\net8.0\Esercizio2_studenti.runtimeconfig.json
+C:\source\Esercizio2_studenti\Esercizio2_studenti\bin\Debug\net8.0\Esercizio2_studenti.dll
+C:\source\Esercizio2_studenti\Esercizio2_studenti\bin\Debug\net8.0\Esercizio2_studenti.pdb
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.dll
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\refint\Esercizio2_studenti.dll
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.pdb
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.genruntimeconfig.cache
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\ref\Esercizio2_studenti.dll
+C:\source\Esercizio2_studenti\Esercizio2_studenti\obj\Debug\net8.0\Esercizio2_studenti.sourcelink.json

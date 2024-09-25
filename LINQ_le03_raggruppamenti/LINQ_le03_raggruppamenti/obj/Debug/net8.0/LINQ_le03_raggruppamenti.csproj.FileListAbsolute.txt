@@ -1,0 +1,14 @@
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.AssemblyInfoInputs.cache
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.AssemblyInfo.cs
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.csproj.CoreCompileInputs.cache
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\bin\Debug\net8.0\LINQ_le03_raggruppamenti.exe
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\bin\Debug\net8.0\LINQ_le03_raggruppamenti.deps.json
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\bin\Debug\net8.0\LINQ_le03_raggruppamenti.runtimeconfig.json
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\bin\Debug\net8.0\LINQ_le03_raggruppamenti.dll
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\bin\Debug\net8.0\LINQ_le03_raggruppamenti.pdb
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.dll
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\refint\LINQ_le03_raggruppamenti.dll
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.pdb
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\LINQ_le03_raggruppamenti.genruntimeconfig.cache
+C:\source\LINQ_le03_raggruppamenti\LINQ_le03_raggruppamenti\obj\Debug\net8.0\ref\LINQ_le03_raggruppamenti.dll

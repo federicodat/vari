@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Esercizio2_studenti/1.0.0": {
+        "runtime": {
+          "Esercizio2_studenti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esercizio2_studenti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

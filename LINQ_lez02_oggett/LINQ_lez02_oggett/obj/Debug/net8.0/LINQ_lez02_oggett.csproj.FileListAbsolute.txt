@@ -1,0 +1,14 @@
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.AssemblyInfoInputs.cache
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.AssemblyInfo.cs
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.csproj.CoreCompileInputs.cache
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\bin\Debug\net8.0\LINQ_lez02_oggett.exe
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\bin\Debug\net8.0\LINQ_lez02_oggett.deps.json
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\bin\Debug\net8.0\LINQ_lez02_oggett.runtimeconfig.json
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\bin\Debug\net8.0\LINQ_lez02_oggett.dll
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\bin\Debug\net8.0\LINQ_lez02_oggett.pdb
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.dll
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\refint\LINQ_lez02_oggett.dll
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.pdb
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\LINQ_lez02_oggett.genruntimeconfig.cache
+C:\source\LINQ_lez02_oggett\LINQ_lez02_oggett\obj\Debug\net8.0\ref\LINQ_lez02_oggett.dll

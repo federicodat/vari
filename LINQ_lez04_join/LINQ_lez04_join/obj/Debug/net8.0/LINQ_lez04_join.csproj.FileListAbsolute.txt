@@ -1,0 +1,14 @@
+C:\source\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.exe
+C:\source\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.deps.json
+C:\source\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.runtimeconfig.json
+C:\source\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.dll
+C:\source\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.pdb
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.AssemblyInfoInputs.cache
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.AssemblyInfo.cs
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.csproj.CoreCompileInputs.cache
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.dll
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\refint\LINQ_lez04_join.dll
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.pdb
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.genruntimeconfig.cache
+C:\source\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\ref\LINQ_lez04_join.dll

@@ -1,0 +1,15 @@
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.AssemblyInfoInputs.cache
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.AssemblyInfo.cs
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.csproj.CoreCompileInputs.cache
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.sourcelink.json
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\bin\Debug\net8.0\lez05_03_utilizzo.exe
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\bin\Debug\net8.0\lez05_03_utilizzo.deps.json
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\bin\Debug\net8.0\lez05_03_utilizzo.runtimeconfig.json
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\bin\Debug\net8.0\lez05_03_utilizzo.dll
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\bin\Debug\net8.0\lez05_03_utilizzo.pdb
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.dll
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\refint\lez05_03_utilizzo.dll
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.pdb
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\lez05_03_utilizzo.genruntimeconfig.cache
+C:\source\lez05_03_utilizzo\lez05_03_utilizzo\obj\Debug\net8.0\ref\lez05_03_utilizzo.dll
